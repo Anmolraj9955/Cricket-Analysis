@@ -1,8 +1,8 @@
-## CRICKET ANALYSIS
+# CRICKET ANALYSIS
 
 Introducing an end to end Data Analytics Project that allows you to find a best team or top players from Whole data set of T20 World Cup 2022 according to your need. In this I have used world cup (2022) data to build insights on a best 11 players team that we can assemble from the whole world.Used web scraping to collect data from website then performed some data transformation and cleaning in pandas, followed by building dashboards in power bi.
 
-# SOME SCREENSHOTS
+## SOME SCREENSHOTS
 
 <a href="https://freeimage.host/i/JyzzpKg"><img src="https://iili.io/JyzzpKg.md.png" alt="JyzzpKg.md.png" border="0"></a>
 <a href="https://freeimage.host/i/JyxciPV"><img src="https://iili.io/JyxciPV.md.png" alt="JyxciPV.md.png" border="0"></a>
